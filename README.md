@@ -45,6 +45,6 @@
  
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/afonsoneto121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/afonsoneto121/afonsoneto121/blob/output/github-contribution-grid-snake.svg)
 
     
